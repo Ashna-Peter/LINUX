@@ -1,0 +1,13 @@
+* : matches any number of character
+? : matches any one character
+[...] : matches any one of the character between the brackets,which can include a hypen-separated range of letters or numbers.
+eg: a* : matches files begin with a
+a*b : matches files begin with a and end with b
+*a* : any files that contain a
+????e : matches any 5 chara file ends with e
+g???e* : files begin with g and has 5 5th letter
+[abw]* :any file beginning with a,b,or w is matched.
+[agw] *[ne] : any file begin with agw and end with ne
+[a-g] : any file begins wth a from a through g are matched
+
+{} : expand out a set of charcater across file names eg: touch nano{1,23}

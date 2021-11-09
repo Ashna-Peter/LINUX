@@ -1,0 +1,5 @@
+x-delete
+d<? - delete some text
+c<? - change some text
+y<? -yanks(copies) some text
+

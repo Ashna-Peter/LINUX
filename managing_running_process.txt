@@ -1,0 +1,8 @@
+ps - chacking running process(eg ps u)
+
+top - listing and changing process
+h- help
+M - sort by memory 
+P - default - sort by cpu
+R - reverse sort output
+u - enter a username to display processes only for a prticular user 

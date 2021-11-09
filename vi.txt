@@ -1,0 +1,15 @@
+ZZ - save the current changes to the file and exit from vi
+:w - save the current file but continue editing
+:wq- same as ZZ
+:q - quit the current file
+:q! - quit with out saving
+
+x - delete the character under the cursor
+X - delete the char directly before the cursor
+d<? -delete some text
+c<? - changes some text
+y<? - yanks (copies) some text
+
+Esc - back to command mode
+u - undo
+ ctrl + R - redo

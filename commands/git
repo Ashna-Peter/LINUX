@@ -1,0 +1,14 @@
+vi : file open
+
+echo "# linuxbasics" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ashna-Peter/linuxbasics.git
+git push -u origin main
+
+
+git remote add origin https://github.com/Ashna-Peter/linuxbasics.git
+git branch -M main
+git push -u origin main
